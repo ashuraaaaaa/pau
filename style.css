@@ -1,0 +1,123 @@
+  body{
+    background-color: #A4CE95 ;
+  }
+.col1{
+      height: 400px;
+      width: 100px;    
+      color: white;
+      font-family: cursive;
+      font-style: unset;
+      background-color: #F7418F;
+}.col2{
+    height: 400px;
+    width: 100px;    
+    color: white;
+      font-family: cursive;
+      font-style: unset;
+    background-color: #FC819E;
+}.col3{
+    height: 400px;
+    width: 100px;    color: white;
+    font-family: cursive;
+    font-style: unset;
+    background-color: #FEC7B4;
+}.col4{
+    height: 400px;
+    width: 90px;  
+    color: #F7418F;;
+      font-family: cursive;
+      font-style: unset;
+    background-color: #FFF3C7; 
+}.col5{
+    height: 400px;
+    width: 90px;   
+    color: #F7418F;;
+      font-family: cursive;
+      font-style: unset; 
+    background-color: #FFF3C7;
+
+}.col6{
+    height: 400px;
+    width: 90px;   
+    color: white;
+      font-family: cursive;
+      font-style: unset; 
+    background-color:#FEC7B4;
+}.col7{
+    height: 400px;
+    width: 90px;    
+    color: white;
+      font-family: cursive;
+      font-style: unset;
+    background-color: #FEC7B4;
+}.col8{
+    height: 400px;
+    width: 90px;    
+    color: #F7418F;;
+      font-family: cursive;
+      font-style: unset;
+    background-color: #FFF3C7;
+}.col9{
+    height: 400px;
+    width: 90px;    
+    color: #F7418F;;
+      font-family: cursive;
+      font-style: unset;
+    background-color: #FFF3C7;
+}.col10{
+    height: 400px;
+    width: 100px;  
+    color: white;
+      font-family: cursive;
+      font-style: unset;
+    background-color:#FEC7B4;
+}.col11{
+    height: 400px;
+    width: 100px;    
+    color: white;
+      font-family: cursive;
+      font-style: unset;
+    background-color: #FC819E;  
+}
+.col12{
+    height: 400px;
+    width: 100px;    
+    color: white;
+      font-family: cursive;
+      font-style: unset;
+    background-color:#F7418F;
+}
+    
+  .col-8{
+    background-color:#114232;
+    height: 200px;
+    width: 750px;    
+    color: white;
+    font-size: 100px;
+    font-family: cursive;
+   font-style: unset;
+      position: relative;
+     
+      
+  }
+  .col-4{
+    background-color:#87A922;
+    font-size: 50px;
+    height: 200px;
+    width: 390px;    
+    color: white;
+      font-family: cursive;
+      font-style: unset;
+  }
+  h1{
+    font-size:100px ;
+    position: relative;
+    left: 100px;
+    top: 30px;
+  }
+h2{
+    font-size:50px ;
+    position: relative;
+    left: 35px;
+    top: 64px;
+}
